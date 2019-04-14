@@ -1,12 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
-MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
-MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/abe44e7f6270fec68b3cf33b96844fd1/AndroidManifest.xml:2:1-13:12
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/2baff18c133742953ec9e8aa026770f6/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/59811da04be56147be4ba0ba34a2a8b0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/559355798e3a9984ccbc79d7526a2c9b/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/533131070fed21a12b1a590af86d772e/AndroidManifest.xml:17:1-22:12
@@ -40,39 +40,39 @@ MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/kc/.gradle/caches/t
 MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/kc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/69c7c15d8c33d920d33e0a874cb4fb7b/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kc/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/318e12f80e6ee581d08949b76791b62f/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/kc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/98fcdeb4d5522179dacad2db0ae3cd59/AndroidManifest.xml:2:1-9:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
 	package
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:2:3-30
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:1-41:12
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.NFC
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:5:5-62
-MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-62
-MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-62
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:5:5-62
+MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-62
+MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-62
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:5:22-59
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:5:22-59
 application
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:9:5-39:19
-MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/abe44e7f6270fec68b3cf33b96844fd1/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/abe44e7f6270fec68b3cf33b96844fd1/AndroidManifest.xml:11:5-20
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:9:5-39:19
+MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/2baff18c133742953ec9e8aa026770f6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/2baff18c133742953ec9e8aa026770f6/AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:support-compat:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ebc2b3e36e52ef50aa8d83642a716b5d/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:support-compat:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ebc2b3e36e52ef50aa8d83642a716b5d/AndroidManifest.xml:22:5-94
 MERGED from [com.android.support:versionedparcelable:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/3a107135c58f3142559f5b70328e38cb/AndroidManifest.xml:22:5-23:19
@@ -82,77 +82,77 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kc/.gradle/caches/trans
 	android:appComponentFactory
 		ADDED from [com.android.support:support-compat:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/ebc2b3e36e52ef50aa8d83642a716b5d/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:11:7-39
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:11:7-39
 	android:roundIcon
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:13:7-52
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:13:7-52
 	android:icon
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:12:7-47
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:12:7-47
 	android:allowBackup
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:14:7-34
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:14:7-34
 	android:theme
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:15:7-38
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:15:7-38
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:10:7-38
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:10:7-38
 activity#com.firstappguide.MainActivity
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:16:7-37:18
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:16:7-37:18
 	android:screenOrientation
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:22:9-45
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:22:9-45
 	android:label
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:18:9-41
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:18:9-41
 	android:launchMode
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:21:9-40
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:21:9-40
 	android:windowSoftInputMode
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:20:9-51
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:20:9-51
 	android:configChanges
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:19:9-79
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:19:9-79
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:17:9-37
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:17:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:23:9-26:25
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:24:13-65
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:24:21-62
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:25:13-73
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:25:23-70
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:25:23-70
 intent-filter#action:name:android.nfc.action.NDEF_DISCOVERED+category:name:android.intent.category.DEFAULT
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:27:9-30:25
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:27:9-30:25
 action#android.nfc.action.NDEF_DISCOVERED
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:28:13-72
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:28:13-72
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:28:21-70
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:28:21-70
 category#android.intent.category.DEFAULT
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:29:13-71
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:29:13-71
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:29:23-69
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:29:23-69
 intent-filter#action:name:android.nfc.action.TECH_DISCOVERED
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:32:9-34:25
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:32:9-34:25
 action#android.nfc.action.TECH_DISCOVERED
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:33:13-72
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:33:13-72
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:33:21-70
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:33:21-70
 meta-data#android.nfc.action.TECH_DISCOVERED
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:36:9-112
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:36:9-112
 	android:resource
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:36:70-109
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:36:70-109
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:36:20-69
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:36:20-69
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:38:7-84
+ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:38:7-84
 	android:name
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml:38:17-81
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml:38:17-81
 uses-sdk
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/abe44e7f6270fec68b3cf33b96844fd1/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/abe44e7f6270fec68b3cf33b96844fd1/AndroidManifest.xml:7:5-9:41
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-nfc] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/2baff18c133742953ec9e8aa026770f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.4] /home/kc/.gradle/caches/transforms-1/files-1.1/react-native-0.59.4.aar/2baff18c133742953ec9e8aa026770f6/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/59811da04be56147be4ba0ba34a2a8b0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/59811da04be56147be4ba0ba34a2a8b0/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:28.0.0] /home/kc/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/559355798e3a9984ccbc79d7526a2c9b/AndroidManifest.xml:20:5-44
@@ -219,19 +219,19 @@ MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kc/.gradle/caches/trans
 MERGED from [com.facebook.soloader:soloader:0.6.0] /home/kc/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/318e12f80e6ee581d08949b76791b62f/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/kc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/98fcdeb4d5522179dacad2db0ae3cd59/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/kc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/98fcdeb4d5522179dacad2db0ae3cd59/AndroidManifest.xml:5:5-7:41
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
-		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/src/main/AndroidManifest.xml
 uses-feature#android.hardware.nfc
-ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-13:36
+ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-13:36
 	android:required
-		ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-33
+		ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-33
 	android:name
-		ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-44
+		ADDED from [:react-native-nfc-manager] /home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/node_modules/react-native-nfc-manager/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-44

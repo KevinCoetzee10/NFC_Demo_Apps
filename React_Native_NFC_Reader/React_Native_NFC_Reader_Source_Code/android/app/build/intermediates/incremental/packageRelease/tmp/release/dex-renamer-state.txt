@@ -1,4 +1,4 @@
-#Sat Apr 13 15:27:00 SAST 2019
-base.0=/home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/React_Native_NFC_Reader/android/app/build/intermediates/transforms/dexMerger/release/0
+#Sun Apr 14 15:13:33 SAST 2019
+base.0=/home/kc/Documents/Personal/Coding/Apps/ReactNative/firstTestApp/firstappguide/Syntactic_Sugar_NFC_Demo_Apps_/React_Native_NFC_Reader/React_Native_NFC_Reader_Source_Code/android/app/build/intermediates/transforms/dexMerger/release/0
 path.0=classes.dex
 renamed.0=classes.dex
